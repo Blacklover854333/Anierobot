@@ -72,7 +72,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [Anie](https://t.me/Stranger_Management_bot). 
+Can be found on telegram as [Anie](https://t.me/Stranger_music_assistant_bot).
 
 Menhera and I are moderating a [support group](https://t.me/quick_mcq), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
